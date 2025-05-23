@@ -16,7 +16,7 @@ pytest-asyncio==0.25.3
 pytest-sugar==1.0.0
 pytest-timeout==2.3.1
 ruff>=0.5.3
-tornado==6.4.1
+tornado==6.5.1
 traitlets==5.14.3
 websocket-client==1.8.0
 widgetsnbextension==4.0.11
