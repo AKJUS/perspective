@@ -109,7 +109,7 @@ ts-rs = { version = "11.0.1", features = [
 
 # Async-aware logging that can be disabled at compile-time.
 tracing = { version = ">=0.1.36" }
-tracing-subscriber = "0.3.15"
+tracing-subscriber = "0.3.20"
 
 # Browser API bindings
 wasm-bindgen = { version = "=0.2.100", features = ["serde-serialize"] }
